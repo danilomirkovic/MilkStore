@@ -1,0 +1,7 @@
+body{
+  background-color: lightblue;
+}
+.sir{
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
